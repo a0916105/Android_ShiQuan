@@ -7,3 +7,4 @@
 - SharedPreferences : https://github.com/a0916105/SharedPreferencesSample_ShiQuan
 - DataStore : https://github.com/a0916105/DataStoreSample_ShiQuan
 - Room : https://github.com/a0916105/RoomSample_ShiQuan
+- Dagger : https://github.com/a0916105/DaggerSample_ShiQuan
